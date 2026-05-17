@@ -10,7 +10,7 @@ The project enables touchless robot control through computer vision and streams 
 
 Dashboard output:
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot from 2026-05-08 13-04-54.png)
 
 ---
 
